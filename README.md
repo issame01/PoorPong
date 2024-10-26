@@ -1,2 +1,2 @@
 # PoorPong
-This repo pushed from HURACAN, good start if your a begginer into JS
+A Ping-Pong game exercise, it's good start if your a begginer into JS
